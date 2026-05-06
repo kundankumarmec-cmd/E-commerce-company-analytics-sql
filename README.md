@@ -1,4 +1,4 @@
-# E-Commerce company analytics
+# E-Commerce company analytics:
 This analysis will inform various departments, from marketing to supply chain, providing them with actionable data to optimize our operations, enhance customer satisfaction, and boost our sales performance.
 This analytics simulates real-world tasks you will encounter and requires you to apply your SQL skills to solve practical business problems.
 
@@ -8,7 +8,7 @@ This analytics simulates real-world tasks you will encounter and requires you to
 • Orders Dataset: order_id, order_date, customer_id, and total_amount.
 • OrderDetails Dataset: order_id, product_id, quantity, and price_per_unit.
 
-# Tech stack
+## Tech stack:
 The E-Commerce company analytics was performed by using following tools and technologies:-
 MYSQL: Utilized for data cleaning and exploratory data analysis,Customer insights,Product analysis,Sales optimization, Inventory Management.
 Excel:To import data in SQL 
@@ -22,9 +22,9 @@ Analyzing sales data to identify trends, opportunities, and areas for improvemen
 Managing stock levels to ensure product availability while minimizing excess inventory.
 
 
-## 👤 About Me
+## 👤 About Me:
 I am an **Aspiring Data Analyst** focused on converting raw datasets into meaningful insights and real-world recommendations.  
 Actively seeking **entry-level Data Analyst**.
 
-## 📬 Contact
+## 📬 Contact:
 https://www.linkedin.com/in/kundan-kumar-71a3a1191/
