@@ -16,7 +16,7 @@ File formate: .sql to interact with and manage relational databases, .csv to sto
 
 
 ## Objective:
-Understanding our customer base to tailor marketing strategies.
+To Understand our customer base to tailor marketing strategies.
 Evaluating product performance to inform stock and sales strategies.
 Analyzing sales data to identify trends, opportunities, and areas for improvement.
 Managing stock levels to ensure product availability while minimizing excess inventory.
